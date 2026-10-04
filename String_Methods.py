@@ -17,3 +17,4 @@ x=txt.replace("Apple", "Mango")
 print(txt)
 print(x)
 print(x.swapcase())
+##
